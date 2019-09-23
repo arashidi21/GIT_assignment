@@ -4,3 +4,4 @@ our most excellent project.
 User B is cool.
 User A is cool.
 User B is uber cool.
+User A is uber cool.
